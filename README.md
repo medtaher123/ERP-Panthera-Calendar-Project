@@ -1,11 +1,12 @@
 # ERP Panthera Calendar Project
 
 ## Overview
-This repository showcases the work I completed during my internship at Softher. The project focused on developing a novel calendar-based representation for [ERP Panthera](https://www.panthera.it/) grids using Angular. It aimed to improve data visualization and accessibility for ERP users.
+This repository showcases the work I completed during my internship at Softher. The project focused on developing a novel calendar-based representation for [ERP Panthera](https://www.panthera.it/) grids using Angular. It aimed to improve data visualization and accessibility for ERP users.  
+*This project plays a pivotal role as one of the main new features in the recently released ERP Panthera version 5.0.*
 
 ## Demo
-A live demo of the project is not available yet.
-
+A live demo of the project is not available yet.  
+A video presentation is available at [YoutubeLink](https://youtu.be/Eeg9MdwbNN0?si=s1XmghBszQeP90mr&t=3630) (the presentation is in Italian, enabling subtitles is recommended)
 ## Technologies Used
 - Angular
 - TypeScript
@@ -27,17 +28,17 @@ It's crucial to note that the calendar needed to support all entities within Pan
 ### Calendar Views
 I leveraged Angular's [CalendarComponent](https://mattlewis-github.com/angular-calendar/#/kitchen-sink) and tailored it to Panthera's style and our specific needs. The result is as follows: The calendar offers three primary views: Month View, Week View, and Day View.
 
-#### Month View
+- **Month View***
 
   ![image](https://github.com/medtaher123/ERP-Panthera-Calendar-Project/assets/56443200/1d2df965-a54e-4d9c-9c0a-4c7391dba055)
 
 
-#### Week View
+- **Week View**
 
 ![image](https://github.com/medtaher123/ERP-Panthera-Calendar-Project/assets/56443200/a7214ba0-1013-4303-a938-b322fb7974c3)
 
 
-#### Day View
+- **Day View**
 
 ![image](https://github.com/medtaher123/ERP-Panthera-Calendar-Project/assets/56443200/2ca82e72-f08e-4025-8905-71c91cba3f64)
 
