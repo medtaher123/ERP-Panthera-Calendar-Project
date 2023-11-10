@@ -1,8 +1,9 @@
 # ERP Panthera Calendar Project
 
 ## Overview
-This repository showcases the work I completed during my internship at Softher. The project focused on developing a novel calendar-based representation for [ERP Panthera](https://www.panthera.it/) grids using Angular. It aimed to improve data visualization and accessibility for ERP users.  
-*This project plays a pivotal role as one of the main new features in the recently released ERP Panthera version 5.0.*
+This repository showcases the work I completed during my internship at Softher. The project focused on developing a novel calendar-based representation for [ERP Panthera](https://www.panthera.it/) grids using Angular. It aimed to improve data visualization and accessibility for ERP users.
+
+*This project plays a pivotal role as one of the main new features in the recently released and highly anticipated major update, ERP Panthera version 5.0.*
 
 ## Demo
 A live demo of the project is not available yet.  
